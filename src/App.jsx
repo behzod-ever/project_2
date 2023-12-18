@@ -1,3 +1,4 @@
+import Home from "./Comonents/Home/Home"
 import Navbar from "./Comonents/Navbar/Navbar"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
     <Navbar />
+    <Home />
     </>
   )
 }
