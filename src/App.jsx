@@ -1,6 +1,7 @@
 import Card from "./Comonents/Card/Card"
 import Home from "./Comonents/Home/Home"
 import Navbar from "./Comonents/Navbar/Navbar"
+import About from "./Pages/About/About"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <Navbar />
     <Home />
     <Card />
+    <About />
     </>
   )
 }
